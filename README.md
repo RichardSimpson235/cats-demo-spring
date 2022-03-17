@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Let's use Azure DevOps to create a tiny app to get and save cats! 
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
